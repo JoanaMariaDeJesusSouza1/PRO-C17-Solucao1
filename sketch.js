@@ -29,6 +29,7 @@ function preload(){
   
   oppRed1Img = loadAnimation("opponent7.png","opponent8.png");
   oppRed2Img = loadAnimation("opponent9.png");
+  // testes
   
   cycleBell = loadSound("bell.mp3");
   gameOverImg = loadImage("fimdeJogo.png");
